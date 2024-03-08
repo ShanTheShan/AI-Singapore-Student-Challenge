@@ -1,4 +1,4 @@
-# AI-Singapore-Student-Challenge
+# AI-Singapore-Student-Challenge 2024
 
 ## Objective
 
